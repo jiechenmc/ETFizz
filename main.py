@@ -1,16 +1,19 @@
 # Target
-# Summary -> Holdings -> Performance
+# Summary -> -> Profile -> Holdings -> Performance
 
-# Summary 
+# 1. Summary 
 # https://finance.yahoo.com/quote/QQQ?p=QQQ
-# Price -> Expense Ratio -> Yield -> PE 
+# Price -> Yield -> PE 
 # -- High PE means that STOCK PRICE > EARNINGS
 
-# Holdings
+# 2. Profile
+# Category -> Expense Ratio vs Average
+
+# 3. Holdings
 # https://finance.yahoo.com/quote/QQQ/holdings?p=QQQ
 # Sector -> Top 10 Holdings
 
-# Performance
+# 4. Performance
 # https://finance.yahoo.com/quote/QQQ/performance?p=QQQ
 # 1,3,5,10 Year Performance
 
